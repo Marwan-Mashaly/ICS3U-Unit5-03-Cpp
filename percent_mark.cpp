@@ -2,7 +2,7 @@
 //
 // Created by: Marwan Mashaly
 // Created on: October 2019
-// This program calculates the area of a triangle
+// This program converts levels to percentages
 #include <iostream>
 
 
